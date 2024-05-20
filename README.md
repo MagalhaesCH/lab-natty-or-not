@@ -15,6 +15,8 @@ ChatGPT
 
 ## 🚀 Resultados
 
+https://github.com/MagalhaesCH/lab-natty-or-not/tree/main/exemplos
+
 ## 💭 Reflexão (Opcional)
 
 Os usos de IA generativas são impressionantes, parece algo de ficção científica. Criar textos, imagens e vídeos
